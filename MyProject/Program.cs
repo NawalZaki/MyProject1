@@ -12,6 +12,7 @@ namespace MyProject
         {
             Console.WriteLine("ssss");
             Console.WriteLine("Welcome");
+            Console.Write("dddddddd");
         }
     }
 }
